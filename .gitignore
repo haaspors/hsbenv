@@ -1,0 +1,19 @@
+syntax: glob
+
+.*
+
+toolchain/bin/m4
+toolchain/bin/pkg-config
+toolchain/bin/aclocal-1.11
+toolchain/bin/autoconf
+toolchain/bin/autoheader
+toolchain/bin/autom4te
+toolchain/bin/automake-1.11
+toolchain/bin/autoreconf
+toolchain/bin/autoscan
+toolchain/bin/autoupdate
+toolchain/bin/glib-gettextize
+toolchain/bin/ifnames
+toolchain/bin/libtoolize
+toolchain/share/autoconf/autom4te.cfg
+toolchain/share/automake-1.11/Automake/Config.pm
